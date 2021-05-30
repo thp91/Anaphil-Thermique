@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Tee-shirt",
+        "id": 0,
+        "img": "media/teeshirtrouge.png",
+        "desc": "Tee-shirt édition limité !",
+        "price": 29.99,
+        "available": true,
+        "color": "rouge",
+        "quantity" : 1,
+        "code" : "teeshirt",
+        "taille": ""
+    },
+    {
+        "name": "Tee-shirt",
+        "id": 1,
+        "img": "media/teeshirtvert.png",
+        "desc": "Tee-shirt édition limité !",
+        "price": 29.99,
+        "available": true,
+        "color": "vert",
+        "quantity" : 1,
+        "code" : "teeshirt",
+        "taille": ""
+    },
+    {
+        "name": "Tee-shirt",
+        "id": 2,
+        "img": "media/teeshirtbleu.png",
+        "desc": "Tee-shirt édition limité !",
+        "price": 29.99,
+        "available": true,
+        "color": "bleu",
+        "quantity" : 1,
+        "code" : "teeshirt",
+        "taille": ""
+    },
+    {
+        "name": "Pull",
+        "id": 3,
+        "img": "media/pullrouge.png",
+        "desc": "Pull édition limité !",
+        "price": 49.99,
+        "available": true,
+        "color": "rouge",
+        "quantity" : 1,
+        "code" : "pull",
+        "taille": ""
+    },
+    {
+        "name": "Pull",
+        "id": 4,
+        "img": "media/pullvert.png",
+        "desc": "Pull édition limité !",
+        "price": 49.99,
+        "available": true,
+        "color": "vert",
+        "quantity" : 1,
+        "code" : "pull",
+        "taille": ""
+    },
+    {
+        "name": "Pull",
+        "id": 5,
+        "img": "media/pullbleu.png",
+        "desc": "Pull édition limité !",
+        "price": 49.99,
+        "available": true,
+        "color": "bleu",
+        "quantity" : 1,
+        "code" : "pull",
+        "taille": ""
+    },
+    {
+        "name": "Casquette",
+        "id": 6,
+        "img": "media/casquetterouge.png",
+        "desc": "Casquette édition limité !",
+        "price": 19.99,
+        "available": true,
+        "color": "rouge",
+        "quantity" : 1,
+        "code" : "casquette",
+        "taille": ""
+    },
+    {
+        "name": "Casquette",
+        "id": 7,
+        "img": "media/casquettebleue.png",
+        "desc": "Casquette édition limité !",
+        "price": 19.99,
+        "available": true,
+        "color": "bleue",
+        "quantity" : 1,
+        "code" : "casquette",
+        "taille": ""
+    }
+]
